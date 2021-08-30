@@ -1,1 +1,3 @@
-plugins: false
+plugins:
+  # remark-preset-lint-sider: true
+  remark-validate-links: true
